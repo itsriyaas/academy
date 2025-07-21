@@ -10,7 +10,6 @@ import { Toaster } from 'react-hot-toast'
 
 
     
-
 const store = configureStore({
   reducer: rootReducer
 });

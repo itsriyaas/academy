@@ -61,7 +61,7 @@ export default function EnrolledCourses() {
 
   return (
     <>
-      <div className="text-4xl text-richblack-5 font-boogaloo text-center sm:text-left">Enrolled Courses</div>
+      <div className="text-4xl text-richblack-5   text-center sm:text-left">Enrolled Courses</div>
       {
         <div className="my-8 text-richblack-5">
           {/* Headings */}
